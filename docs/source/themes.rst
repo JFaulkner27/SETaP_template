@@ -1,5 +1,5 @@
-API
-===
+Other themes
+============
 
 .. autosummary::
    :toctree: generated
